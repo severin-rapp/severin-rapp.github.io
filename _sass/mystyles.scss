@@ -1,0 +1,81 @@
+#top .site-header{
+  // background: #002147;
+  // border-top-color: #fff;
+  // .site-title{
+  //   color: #FFF;
+  // }
+  // .page-link{
+  //   color: #FFF;
+  // }
+  @media screen and (max-width: 500px) {
+    .site-nav{
+      cursor: pointer;
+    }
+  }
+  .site-nav .nav-list li{
+    transition: opacity 0.2s;
+    opacity: 0.4;
+    border-bottom-color: transparent !important;
+    &:hover{
+      opacity: 1;
+    }
+  }
+  .site-title{
+    transition: opacity 0.2s;
+    opacity: 0.4;
+    border-bottom-color: transparent !important;
+    &:hover{
+      opacity: 1; 
+    }
+  }
+  .wrapper{
+    max-width: none;
+  }
+}
+
+#top .page-content .wrapper{
+  max-width: 850px;
+}
+
+#top .site-footer{
+  .wrapper{
+    max-width: none;
+  }
+  .contact-list{
+    text-align: right;
+  }
+}
+
+#top .post-title{
+  display: none;
+}
+
+#top .author-description{
+  h3{
+    margin-top:0;
+  }
+
+  @include media-query($on-palm){
+    text-align:center;
+  }
+}
+
+strong{
+  font-weight: 700;
+}
+
+#top .button{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 1.5em;
+  font-size: 14px;
+  padding-left: 20px; 
+  padding-right: 20px; 
+  background-color: $brand-color;
+  color: #fff;
+  &:hover{
+    text-decoration: none;
+    opacity: 0.7;
+  }
+}
