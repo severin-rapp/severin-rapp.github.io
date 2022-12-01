@@ -22,11 +22,15 @@ title: Severin Rapp
 email: severn.rapp@wu.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
   PhD candidate at the Vienna University of Economics and Business
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: severin_rapp
 github_username:  severin-rapp
 linkedin_username: severin-rapp
+
+nav_ext_links:
+  - name: CV
+    url: https://severin-rapp.github.io/assets/cv_srapp.pdf
 
 # Build settings
 # academic
