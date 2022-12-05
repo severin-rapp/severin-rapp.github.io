@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.langs[0] | default: "en" }}">
+
+  {% include head.html %}
+
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap" rel="stylesheet"> -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163872740-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-163872740-2');
+  </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      document.querySelector('.site-nav').setAttribute('onclick', '()=>{}');
+    });
+  </script>
+
+  <body id="top">
+
+    {% include header.html %}
+
+    {% if page.layout == "post" %}
+    <main class="post-content" aria-label="Content">
+    {% else %}
+    <main class="page-content" aria-label="Content">
+    {% endif %}
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
