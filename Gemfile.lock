@@ -260,6 +260,7 @@ PLATFORMS
 DEPENDENCIES
   academic
   github-pages (~> 227)
+  jekyll-data
   jekyll-feed (~> 0.12)
   tzinfo (>= 1, < 3)
   tzinfo-data
