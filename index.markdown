@@ -10,7 +10,7 @@ title: Severin Rapp
 ## Hello, 
 
 
-I am a PhD candidate at the Vienna University of Economics and Business [Department of Economics](https://www.wu.ac.at/economics/mitarbeiter-innen/rapp-s/){:target="_blank"} and the [Research Institute Economics of Inequality](https://www.wu.ac.at/ineq/team/wissenschaftliche-mitarbeiter-innen/severin-rapp/){:target="_blank"}.
+I am a PhD student at the Vienna University of Economics and Business [Department of Economics](https://www.wu.ac.at/economics/mitarbeiter-innen/rapp-s/){:target="_blank"} and the [Research Institute Economics of Inequality](https://www.wu.ac.at/ineq/team/wissenschaftliche-mitarbeiter-innen/severin-rapp/){:target="_blank"}.
 
 My research is about the measurement of wealth inequality and intergenerational transfers. I am instersted in improving the available evidence on the distribution of wealth and bequests. This includes unearthing new data and creating tools to make data from different soucres and countries comparable. 
 
