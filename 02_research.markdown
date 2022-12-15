@@ -31,6 +31,8 @@ Economic shocks test the resilience of families around the world. Lockdowns, ext
 </details>
 <p> </p>
 
+<hr style="border:.25px solid grey">
+
 ### Working papers 
 <p> </p>
 
@@ -40,6 +42,8 @@ Economic shocks test the resilience of families around the world. Lockdowns, ext
 Increasingly, the estimation of household equivalence scales relies on subjec-tive data. This approach challenges not only traditional methodology, but alsoprovides systematically lower estimates of household needs compared to othermethods. I offer a novel take on this puzzle and argue that the failure to accountfor private wealth in subjective measurement is part of the explanation of whyhousehold financial needs appear to be low. Wealthy survey respondents claimto be satisfied with less income, as they can draw on their asset buffer to main-tain a given living standard. Capitalising on SOEP survey data, I find that thefinancial needs of a household comprising five members relative to a referencehousehold might be underestimated by up to 20% if wealth is not accountedfor. Equivalence scales are central to poverty and inequality measurement, thedesign of social transfer systems and many other applications. Therefore, it iscrucial to account for asset ownership when drawing on estimates that rely onthe subjective methodology.
 </details>
 <p> </p>
+
+<hr style="border:.25px solid grey">
 
 ### Research reports 
 <p> </p>
