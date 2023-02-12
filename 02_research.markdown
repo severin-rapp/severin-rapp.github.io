@@ -10,8 +10,6 @@ permalink: /research/
 ### Work in Progress
 <p> </p>
 
-**Wealth distribution and household economies of scale: Do families matter for ineqality?**   
-
 **Understanding Wealth Inequality: A Probate-Based approach**    
 (joint with Franziska Disslbacher) 
 
@@ -36,6 +34,13 @@ Economic shocks test the resilience of families around the world. Lockdowns, ext
 ### Working papers 
 <p> </p>
 
+**[Wealth distribution and household economies of scale: Do families matter for ineqality?](https://research.wu.ac.at/ws/portalfiles/portal/35839119/WP336.pdf){:target="_blank"}**, *Department of Economics Working Paper Series*, 2023, No. 336  
+<details>
+  <summary>Abstract</summary>
+Wealth inequality assumes a central role in the debate on economic inequality. Yet, in contrast to the literature on income distribution, the role of the household in moderating inequality remains poorly understood. This paper argues that economies of scale to household wealth matter crucially, offering both a methodology and empirical results to account for household scale effects. As wealth enters individual utility directly (not at least due to bequest motives), it is possible to test for economies of scale in components of household wealth held for such non-consumption purposes, which may differ from traditional consumption scale effects. Using the model of a capitalist-spirit bequest motive to formalise the decision of allocating wealth between consumption and non-consumption purposes, this paper is the first to offer a concept of economies of scale for wealth rather than an ad-hoc approach. Adapting the model to accommodate household size effects, the second contribution of this paper is to estimate wealth economies of scale using satisfaction data from the German Socio-Economic Panel (SOEP), drawing on a non-linear estimator to recover structural model parameters. Next, the article appraises the implications of scale effects adjustments for the distribution of household wealth in Germany. Overall, the findings suggest that non-consumption economies of scale are almost perfect. Since non-consumption wealth matters primarily among the affluent households, adjusting household wealth for size does not affect them strongly, feeding into higher estimates of inequality. For example, the Palma ratio for Germany in 2012 increases by 17.1\% once scale effects are taken into account, and the Gini index by 3\%. The results do not only inform the academic literature on scale effects, and thus the measurement of inequality and living conditions, but also provides a new perspective on the influence of bequest (motives) on wealth inequality. 
+</details>
+<p> </p>
+
 **[Asset Bias in Household Needs Measurement](https://research.wu.ac.at/ws/portalfiles/portal/16968378/Rapp_2021_INEQ_WP_22.pdf){:target="_blank"}**, *INEQ Working Paper Series*, 2021, No. 22    
 <details>
   <summary>Abstract</summary>
@@ -50,6 +55,11 @@ Increasingly, the estimation of household equivalence scales relies on subjec-ti
 
 **[Vermögen in Wien. Ungleichheit und Öffentliches Eigentum](https://www.digital.wienbibliothek.at/wbrup/download/pdf/3404254?originalFilename=true){:target="_blank"}** [Wealth in Vienna. Inequality and public ownership], City of Vienna Municipal Department No. 23, 2021     
 (joint with Robert Lasser, Vanessa Lechinger and Cara Dabrowski) 
+<details>
+  <summary>Abstract</summary>
+The distribution of wealth is a central object of interest in both academics and policy-making. While much research on wealth focuses on the national level, this paper provides insights on the sub-national level, providing evidence on wealth inequality in Vienna in a comparison with other Austrian regions. Based on regionally stratified data from the Austrian Household Finance and Consumption Survey (HFCS), the analysis makes three main contributions. Firstly, in addition to vertical inequality, we explore disparities in household wealth across different types of households and between men and women at the subnational level. Secondly, the paper develops a concept of augmented wealth, which adds housing wealth held by the non-profit sector (municipal housing, housing associations, …) to the private wealth of households that benefit most from it. Lastly, we study the relationship between our measure of augmented wealth and life satisfaction. While overall wealth inequality is much higher than income inequality in Austria, the paper finds that the distribution of wealth is particularly dispersed in Vienna relative to the rest of the country. However, focusing on housing-augmented wealth attenuates the regional differences. When turning to the relationship between housing-augmented wealth and subjective satisfaction outcomes, the article shows a positive association between the augmented component of wealth and life satisfaction. Given the important quantitative implications of our augmented wealth measure in cross-regional comparisons and its association with wellbeing-outcomes, the findings point towards the importance of exploring different concepts of wealth in wealth research.  
+</details>
+<p> </p>
 
 **[Kinderkosten - Berechnungsmethoden & Bandbreiten](https://www.wu.ac.at/fileadmin/wu/d/ri/ineq/Projekte/Kinderkosten/INEQ_Kinderkosten_BerechnungsmethodenBandbreiten.pdf){:target="_blank"}** [The cost of children. Methods and bandwidths], City of Vienna Municipal Department No. 40, 2020    
 (joint with Stefan Humer)
