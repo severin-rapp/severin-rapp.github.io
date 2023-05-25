@@ -31,6 +31,16 @@ Economic shocks test the resilience of families around the world. Lockdowns, ext
 
 <hr style="border:.25px solid grey">
 
+### Book Chapters
+<p> </p>
+
+**[Armut, Soziale Ausgrenzung und Wohnen](https://emedien.arbeiterkammer.at/viewer/ppnresolver?id=AC16852491){:target="_blank"}** [Poverty, Social Exckusion and Housing], *Soziale Lage und Sozialpolitik in Österreich*, 2023, 24. 
+  <summary>Abstract</summary>
+</details>
+Against the background of multiple crises, welfare states face increasing challenges in maintaining living standards and combatting poverty. This contribution reviews the evidence with respect to poverty (risk) and homelessness in Austria, while assessing welfare state change in the past decade. It supplements traditional income-based measures with a discussion of material indicators of poverty, and discusses the important role of living costs and housing for the analysis of poverty in particular. Overall, the analysis highlights the need for policy-makers not only to rely on employment as a poverty reduction strategy, but also to ensure wage growth and the provision of basic goods and services to keep the cost of living moderate.
+<p> </p>
+
+
 ### Working papers 
 <p> </p>
 
