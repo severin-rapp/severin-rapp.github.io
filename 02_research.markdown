@@ -10,7 +10,7 @@ permalink: /research/
 ### Work in Progress
 <p> </p>
 
-** The subjective wealth distribution: How it arises and why it matters to inform (monetary) policy?**
+**The subjective wealth distribution: How it arises and why it matters to inform (monetary) policy?**
 (joint with Pirmin Fessler)
 
 **Understanding Wealth Inequality: A Probate-Based approach**    
