@@ -22,6 +22,19 @@ Measures of private wealth are often available only at the household or tax-unit
 
 <hr style="border:.25px solid grey">
 
+### Ongoing projects
+<p> </p>
+
+**[Wealth and Welfare: Do Private and Public Safety Nets Compensate for Asset Poverty?](https://doi.org/10.17645/si.v11i1.5937){:target="_blank"}**, *Social Inclusion*, 2023, 11(1),  176–186.    
+(joint with Stefan Humer)    
+<details>
+  <summary>Abstract</summary>
+Economic shocks test the resilience of families around the world. Lockdowns, extended periods of unemployment, and inflation challenge the capabilities of private households to maintain their living standards whilst keeping their budgets in balance. Asset poverty is a concept invoked frequently to measure the capacity of private households to mitigate income loss by relying exclusively on their savings. In contrast to conventional asset poverty measures, we quantify the combined cushioning effect of private and public safety nets. Highlighting the importance of public safety nets and familial networks, this paper devises a modified concept of asset poverty: rather than purely simulating a household’s asset decumulation without replacement income, the modified indicator accounts for replacement income in a static setting. The empirical assessment of modified asset poverty in Europe and America combines harmonised microdata on household finances with simulations of institutional rules set by social insurance systems. Our results reveal how differences in social relations and institutional rules shape cross-country variation in the vulnerability of private households. We find that, in contrast to the US where the asset poverty of US families is particularly low, households in most European countries are less vulnerable because generous social security systems coexist with low private assets.  However, in some European countries, benefit generosity decreases the longer income losses last, exposing time dynamics in vulnerability. Complementing social insurance mechanisms, in countries such as Greece, households are more likely to receive financial support from family or friends. Cross-national heterogeneity in vulnerability suggests that a shock may have different implications across countries.
+</details>
+<p> </p>
+
+<hr style="border:.25px solid grey">
+
 ### Journal publications
 <p> </p>
 
