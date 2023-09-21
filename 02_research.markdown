@@ -7,24 +7,41 @@ permalink: /research/
 
 
 ## Research
+
+**[Household economies of scale for wealth: The benefits of sharing with wealth-in-utility](https://severin-rapp.github.io/assets/wealtheq_JMP.pdf){:target="_blank"}**.    
+(Job market paper)
+<details>
+  <summary>Abstract</summary>
+Measures of private wealth are often available only at the household or tax-unit level. But how does household wealth map into individual welfare? Analogous to household economies of scale for consumption, I argue that there are economies of scale to household wealth. This paper is the first to offer a methodology and empirical results to account for household wealth scale effects based on wealth-in-utility preferences. I propose economies of scale that differ by accumulation purpose – funding consumption as opposed to holding wealth for status or bequest motives (non-consumption). Presenting estimates of scale effects derived from stated preference data in the German Socio-Economic Panel (SOEP), I find that non-consumption economies of scale are almost perfect. In addition, the paper offers an empirical application to inequality measurement. Since non-consumption wealth matters primarily among wealthy households, adjusting household wealth for size primarily affects less affluent households, feeding into higher estimates of inequality. For example, the Palma ratio for Germany increases by up to 18\% once scale effects are taken into account, and the Gini index by 3\%. Beyond providing parameter estimates for a wealth-in-utility model with household size, the results have relevant applications in the measurement of inequality and optimal taxation.
+</details>
+<p> </p>
+
+<hr style="border:.25px solid grey">
+
 ### Work in Progress
 <p> </p>
 
 **The subjective wealth distribution: How it arises and why it matters to inform (monetary) policy?**
 (joint with Pirmin Fessler)
+<details>
+  <summary>Abstract</summary>
+Recently, the influence of income and wealth distribution on aggregate savings receives considerable attention. While prior studies primarily address measured income distributions, we highlight the significance of individuals' subjective perceptions in economic decision-making. We investigate the link between an individual's perception of their wealth distribution rank and their savings behavior. Using unique wealth survey data, we reveal substantial bias in self-assessed distributional ranks. Our estimates indicate that individuals underestimating their wealth rank exhibit a savings rate roughly 50\% higher than those accurately assessing their position. This robust result holds after accounting for diverse household and individual characteristics and different functional forms. Furthermore, we introduce a novel instrument by leveraging a wage transparency law's implementation to identify a causal effect of similar order of magnitude. Our findings inform contemporary macroeconomic models and aid in evaluating the impact of social segregation and information bubbles on economic decisions mediated through individual relative wealth perceptions.</details>
+<p> </p>
 
 **Understanding Wealth Inequality: A Probate-Based approach**    
 (joint with Franziska Disslbacher) 
+<details>
+  <summary>Abstract</summary>
+The distribution of bequests is central to many economic questions of key significance in both research and policy. Economic behaviour in terms of labour supply, savings and consumption depend on bequests, and the distribution of estates allows for inferences about the distribution of wealth among the living. But how are bequests (and by extension, wealth) distributed, both vertically but also horizontally between individuals with different socioeconomic characteristics? This project digitizes and exploits a to-date unused administrative data source to take a fresh look at inheritances and wealth in Austria: Individual-level probate records that also cover the very top tail of the wealth distribution, unobserved in most other data sources. In addition to detailed data on individual balance sheets, the probate records also offer rich information on the characteristics of the deceased, along with some data on the heirs. While probate records reach back centuries, we focus on the time period from 2014 to 2019. The Austrian data is also of interest from an international perspective: In contrast to probate records employed in previous research, such as those for Italy and the UK, there is no missing population due to minimum asset thresholds. After providing a detailed analysis of the distribution of bequests, we proceed by employing the mortality multiplier method to draw inferences on the distribution of wealth among the living. Then, we benchmark the estimates with Austrian survey evidence. In addition to new insights about the precise composition of bequeathed assets and the characteristics of the testators, we expect the better coverage of the tails of the bequest-distribution to affect estimates of both levels and inequality. 
+<p> </p>
 
-**Housing policy and the distribution of wealth: A comparison of Austrian regions**     
-(joint with Stefan Humer, Vanessa Lechinger and Robert Lasser) 
 
 <hr style="border:.25px solid grey">
 
 ### Journal publications
 <p> </p>
 
-**[Wealth and Welfare: Do Private and Public Safety Nets Compensate for Asset Poverty?](https://doi.org/10.17645/si.v11i1.5937){:target="_blank"}**, *Social Inclusion*, 2023, 11(1), X-X.    
+**[Wealth and Welfare: Do Private and Public Safety Nets Compensate for Asset Poverty?](https://doi.org/10.17645/si.v11i1.5937){:target="_blank"}**, *Social Inclusion*, 2023, 11(1),  176–186.    
 (joint with Stefan Humer)    
 <details>
   <summary>Abstract</summary>
