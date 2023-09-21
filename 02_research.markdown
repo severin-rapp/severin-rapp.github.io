@@ -33,14 +33,6 @@ Recently, the influence of income and wealth distribution on aggregate savings r
 <details>
 <p> </p>
 
-**Understanding Wealth Inequality: A Probate-Based approach**    
-(joint with Franziska Disslbacher) 
-<details>
-  <summary>Abstract</summary>
-The distribution of bequests is central to many economic questions of key significance in both research and policy. Economic behaviour in terms of labour supply, savings and consumption depend on bequests, and the distribution of estates allows for inferences about the distribution of wealth among the living. But how are bequests (and by extension, wealth) distributed, both vertically but also horizontally between individuals with different socioeconomic characteristics? This project digitizes and exploits a to-date unused administrative data source to take a fresh look at inheritances and wealth in Austria: Individual-level probate records that also cover the very top tail of the wealth distribution, unobserved in most other data sources. In addition to detailed data on individual balance sheets, the probate records also offer rich information on the characteristics of the deceased, along with some data on the heirs. While probate records reach back centuries, we focus on the time period from 2014 to 2019. The Austrian data is also of interest from an international perspective: In contrast to probate records employed in previous research, such as those for Italy and the UK, there is no missing population due to minimum asset thresholds. After providing a detailed analysis of the distribution of bequests, we proceed by employing the mortality multiplier method to draw inferences on the distribution of wealth among the living. Then, we benchmark the estimates with Austrian survey evidence. In addition to new insights about the precise composition of bequeathed assets and the characteristics of the testators, we expect the better coverage of the tails of the bequest-distribution to affect estimates of both levels and inequality. 
-<details>
-<p> </p>
-
 
 <hr style="border:.25px solid grey">
 
