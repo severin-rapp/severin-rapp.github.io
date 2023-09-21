@@ -8,8 +8,11 @@ permalink: /research/
 
 ## Research
 
+
+### Job market paper
+<p> </p>
+
 **[Household economies of scale for wealth: The benefits of sharing with wealth-in-utility](https://severin-rapp.github.io/assets/wealtheq_JMP.pdf){:target="_blank"}**.    
-(Job market paper)
 <details>
   <summary>Abstract</summary>
 Measures of private wealth are often available only at the household or tax-unit level. But how does household wealth map into individual welfare? Analogous to household economies of scale for consumption, I argue that there are economies of scale to household wealth. This paper is the first to offer a methodology and empirical results to account for household wealth scale effects based on wealth-in-utility preferences. I propose economies of scale that differ by accumulation purpose – funding consumption as opposed to holding wealth for status or bequest motives (non-consumption). Presenting estimates of scale effects derived from stated preference data in the German Socio-Economic Panel (SOEP), I find that non-consumption economies of scale are almost perfect. In addition, the paper offers an empirical application to inequality measurement. Since non-consumption wealth matters primarily among wealthy households, adjusting household wealth for size primarily affects less affluent households, feeding into higher estimates of inequality. For example, the Palma ratio for Germany increases by up to 18\% once scale effects are taken into account, and the Gini index by 3\%. Beyond providing parameter estimates for a wealth-in-utility model with household size, the results have relevant applications in the measurement of inequality and optimal taxation.
