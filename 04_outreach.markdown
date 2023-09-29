@@ -8,6 +8,8 @@ permalink: /outreach/
 ## Outreach 
 <p> </p>
 
+Wiener Zeitung, 2023. ["Wie viel erben wir?"](https://www.wienerzeitung.at/a/oekonowie-erbschaftssteuer)
+
 Oe1 Abendjounral, 2023. "Armut in Österreich" 
 
 Oe1 Mittagsjournal, 2023. "Wer in Österreich als arm gilt"
