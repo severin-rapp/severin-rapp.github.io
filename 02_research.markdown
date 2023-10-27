@@ -19,7 +19,7 @@ Measures of private wealth are often available only at the household or tax-unit
 </details>
 <p> </p>
 
-**The subjective wealth distribution: How it arises and why it matters to inform policy?(https://www.oenb.at/dam/jcr:c442f243-a839-4fd7-bc85-1d7c1b82e398/wp-249.pdf){:target="_blank"}**
+**[The subjective wealth distribution: How it arises and why it matters to inform policy?](https://www.oenb.at/dam/jcr:c442f243-a839-4fd7-bc85-1d7c1b82e398/wp-249.pdf){:target="_blank"}**.
 (joint with Pirmin Fessler)
 <details>
   <summary>Abstract</summary>
