@@ -9,13 +9,21 @@ permalink: /research/
 ## Research
 
 
-### Job market paper
+### Research papers
 <p> </p>
 
 **[Household economies of scale for wealth: The benefits of sharing with wealth-in-utility](https://severin-rapp.github.io/assets/wealtheq_JMP.pdf){:target="_blank"}**.    
 <details>
   <summary>Abstract</summary>
-Measures of private wealth are often available only at the household or tax-unit level. But how does household wealth map into individual welfare? Analogous to household economies of scale for consumption, I argue that there are economies of scale to household wealth. This paper is the first to offer a methodology and empirical results to account for household wealth scale effects based on wealth-in-utility preferences. I propose economies of scale that differ by accumulation purpose – funding consumption as opposed to holding wealth for status or bequest motives (non-consumption). Presenting estimates of scale effects derived from stated preference data in the German Socio-Economic Panel (SOEP), I find that non-consumption economies of scale are almost perfect. In addition, the paper offers an empirical application to inequality measurement. Since non-consumption wealth matters primarily among wealthy households, adjusting household wealth for size primarily affects less affluent households, feeding into higher estimates of inequality. For example, the Palma ratio for Germany increases by up to 18\% once scale effects are taken into account, and the Gini index by 3\%. Beyond providing parameter estimates for a wealth-in-utility model with household size, the results have relevant applications in the measurement of inequality and optimal taxation.
+Measures of private wealth are often available only at the household or tax-unit level. But how does household wealth map into individual welfare? Analogous to household economies of scale for consumption, I argue that there are economies of scale to household wealth. This paper is the first to offer a methodology and empirical results to account for household wealth scale effects based on wealth-in-utility preferences. I propose economies of scale that differ by accumulation purpose – funding consumption as opposed to holding wealth for status or bequest motives (non-consumption). Presenting estimates of scale effects derived from stated preference data in the German Socio-Economic Panel (SOEP), I find that non-consumption economies of scale are almost perfect. In addition, the paper offers an empirical application to inequality measurement. Since non-consumption wealth matters primarily among wealthy households, adjusting household wealth for size primarily affects less affluent households, feeding into higher estimates of inequality. For example, the Palma ratio for Germany increases by up to 18% once scale effects are taken into account, and the Gini index by 3%. Beyond providing parameter estimates for a wealth-in-utility model with household size, the results have relevant applications in the measurement of inequality and optimal taxation.
+</details>
+<p> </p>
+
+**The subjective wealth distribution: How it arises and why it matters to inform policy?(https://www.oenb.at/dam/jcr:c442f243-a839-4fd7-bc85-1d7c1b82e398/wp-249.pdf){:target="_blank"}**
+(joint with Pirmin Fessler)
+<details>
+  <summary>Abstract</summary>
+Recently, the influence of income and wealth distribution on aggregate savings receives considerable attention. While most studies have focused on measured income distributions, we emphasize the critical role of individuals’ subjective perceptions in economic decision-making. Our results largely align with standard economic theory, asserting the importance of wealth and (permanent) income for the savings rate. Additionally, our results introduce a potential new dimension: the relevance of an individual’s perceived position within the wealth distribution. Using unique wealth survey data, we uncover a significant bias in self-assessed distributional ranks. Our estimates indicate that descriptively individuals who underestimate their wealth rank have a savings rate approximately 50% higher than those who assess their rank accurately. This robust finding persists in our predictive effects of smaller size (underestimating ones wealth rank by 1 wealth decile goes along with a 0.8 percentage point higher savings rate) even after controlling for wealth and income and a range of household and individual characteristics. To identify a causal effect of 2.3 percentage points per wealth decile underestimation, we introduce a novel Instrumental Variable (IV) approach, leveraging the implementation of a wage transparency law. Importantly, this IV approach is less prone to errors arising from common support issues, as it relies solely on the differences in perceived wealth ranks that are explainable by the policy. Our findings offer valuable insights for contemporary macroeconomic models and contribute to the understanding of how social segregation and information bubbles impact economic decisions, mediated through individual perceptions of relative wealth.
 </details>
 <p> </p>
 
@@ -25,19 +33,12 @@ Measures of private wealth are often available only at the household or tax-unit
 ### Ongoing projects
 <p> </p>
 
-**The subjective wealth distribution: How it arises and why it matters to inform (monetary) policy?**
-(joint with Pirmin Fessler)
-<details>
-  <summary>Abstract</summary>
-Recently, the influence of income and wealth distribution on aggregate savings receives considerable attention. While prior studies primarily address measured income distributions, we highlight the significance of individuals' subjective perceptions in economic decision-making. We investigate the link between an individual's perception of their wealth distribution rank and their savings behavior. Using unique wealth survey data, we reveal substantial bias in self-assessed distributional ranks. Our estimates indicate that individuals underestimating their wealth rank exhibit a savings rate roughly 50\% higher than those accurately assessing their position. This robust result holds after accounting for diverse household and individual characteristics and different functional forms. Furthermore, we introduce a novel instrument by leveraging a wage transparency law's implementation to identify a causal effect of similar order of magnitude. Our findings inform contemporary macroeconomic models and aid in evaluating the impact of social segregation and information bubbles on economic decisions mediated through individual relative wealth perceptions.
-</details>
-<p> </p>
 
 **Understanding Wealth Inequality: A Probate-Based approach**    
 (joint with Franziska Disslbacher) 
 <details>
   <summary>Abstract</summary>
-The distribution of bequests is central to many economic questions of key significance in both research and policy. Economic behaviour in terms of labour supply, savings and consumption depend on bequests, and the distribution of estates allows for inferences about the distribution of wealth among the living. But how are bequests (and by extension, wealth) distributed, both vertically but also horizontally between individuals with different socioeconomic characteristics? This project digitizes and exploits a to-date unused administrative data source to take a fresh look at inheritances and wealth in Austria: Individual-level probate records that also cover the very top tail of the wealth distribution, unobserved in most other data sources. In addition to detailed data on individual balance sheets, the probate records also offer rich information on the characteristics of the deceased, along with some data on the heirs. While probate records reach back centuries, we focus on the time period from 2014 to 2019. The Austrian data is also of interest from an international perspective: In contrast to probate records employed in previous research, such as those for Italy and the UK, there is no missing population due to minimum asset thresholds. After providing a detailed analysis of the distribution of bequests, we proceed by employing the mortality multiplier method to draw inferences on the distribution of wealth among the living. Then, we benchmark the estimates with Austrian survey evidence. In addition to new insights about the precise composition of bequeathed assets and the characteristics of the testators, we expect the better coverage of the tails of the bequest-distribution to affect estimates of both levels and inequality. 
+This project delivers the first administrative micro data set for wealth in Austria. We collaborate with local courts to digitise individual-level probate records. In addition to detailed data on individual balance sheets, the probate records also offer rich information on the characteristics of the deceased, as well as the process of intergenerational wealth transmission such as information on wills. We focus on the time period from 2014 to 2019. In contrast to probate records employed in previous research, such as those for Italy and the UK, there is no missing population due to minimum asset thresholds. The data will be used to benchmark survey evidence of wealth inequality in Austria. Beyond that, the data set will allow to study a wide range of research questions related to bequests and intergenerational wealth transmission.
 </details>
 <p> </p>
 
@@ -71,14 +72,7 @@ Against the background of multiple crises, welfare states face increasing challe
 
 <hr style="border:.25px solid grey">
 
-### Working papers 
-<p> </p>
-
-**[Wealth distribution and household economies of scale: Do families matter for ineqality?](https://research.wu.ac.at/ws/portalfiles/portal/35839119/WP336.pdf){:target="_blank"}**, *Department of Economics Working Paper Series*, 2023, No. 336  
-<details>
-  <summary>Abstract</summary>
-Wealth inequality assumes a central role in the debate on economic inequality. Yet, in contrast to the literature on income distribution, the role of the household in moderating inequality remains poorly understood. This paper argues that economies of scale to household wealth matter crucially, offering both a methodology and empirical results to account for household scale effects. As wealth enters individual utility directly (not at least due to bequest motives), it is possible to test for economies of scale in components of household wealth held for such non-consumption purposes, which may differ from traditional consumption scale effects. Using the model of a capitalist-spirit bequest motive to formalise the decision of allocating wealth between consumption and non-consumption purposes, this paper is the first to offer a concept of economies of scale for wealth rather than an ad-hoc approach. Adapting the model to accommodate household size effects, the second contribution of this paper is to estimate wealth economies of scale using satisfaction data from the German Socio-Economic Panel (SOEP), drawing on a non-linear estimator to recover structural model parameters. Next, the article appraises the implications of scale effects adjustments for the distribution of household wealth in Germany. Overall, the findings suggest that non-consumption economies of scale are almost perfect. Since non-consumption wealth matters primarily among the affluent households, adjusting household wealth for size does not affect them strongly, feeding into higher estimates of inequality. For example, the Palma ratio for Germany in 2012 increases by 17.1\% once scale effects are taken into account, and the Gini index by 3\%. The results do not only inform the academic literature on scale effects, and thus the measurement of inequality and living conditions, but also provides a new perspective on the influence of bequest (motives) on wealth inequality. 
-</details>
+### Research reports and other publications 
 <p> </p>
 
 **[Asset Bias in Household Needs Measurement](https://research.wu.ac.at/ws/portalfiles/portal/16968378/Rapp_2021_INEQ_WP_22.pdf){:target="_blank"}**, *INEQ Working Paper Series*, 2021, No. 22    
@@ -86,11 +80,6 @@ Wealth inequality assumes a central role in the debate on economic inequality. Y
   <summary>Abstract</summary>
 Increasingly, the estimation of household equivalence scales relies on subjec-tive data. This approach challenges not only traditional methodology, but alsoprovides systematically lower estimates of household needs compared to othermethods. I offer a novel take on this puzzle and argue that the failure to accountfor private wealth in subjective measurement is part of the explanation of whyhousehold financial needs appear to be low. Wealthy survey respondents claimto be satisfied with less income, as they can draw on their asset buffer to main-tain a given living standard. Capitalising on SOEP survey data, I find that thefinancial needs of a household comprising five members relative to a referencehousehold might be underestimated by up to 20% if wealth is not accountedfor. Equivalence scales are central to poverty and inequality measurement, thedesign of social transfer systems and many other applications. Therefore, it iscrucial to account for asset ownership when drawing on estimates that rely onthe subjective methodology.
 </details>
-<p> </p>
-
-<hr style="border:.25px solid grey">
-
-### Research reports 
 <p> </p>
 
 **[Vermögen in Wien. Ungleichheit und Öffentliches Eigentum](https://www.digital.wienbibliothek.at/wbrup/download/pdf/3404254?originalFilename=true){:target="_blank"}** [Wealth in Vienna. Inequality and public ownership], City of Vienna Municipal Department No. 23, 2021     
@@ -111,3 +100,6 @@ How much resources do families with children need relative to childless househol
 
 **[Entwicklung und Verteilung von Lebenshaltungskosten in Österreich](https://www.sozialministerium.at/dam/jcr:6576e9e9-5735-4d94-8d55-240eb2251afd/2018_ineq_lebenshaltungskosten.pdf){:target="_blank"}** [Development and distributional impact of inflation], Austrian Federal Ministry for Work, Social Affairs, Health and Consumer Protection, 2018     
 (joint with Stefan Humer) 
+
+<hr style="border:.25px solid grey">
+
