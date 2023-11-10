@@ -49,7 +49,7 @@ This project delivers the first administrative micro data set for wealth in Aust
 ### Journal publications
 <p> </p>
 
-**[Wealth and Welfare: Do Private and Public Safety Nets Compensate for Asset Poverty?](https://doi.org/10.17645/si.v11i1.5937){:target="_blank"}**, *Social Inclusion*, 2023, 11(1),  176–186.    
+**[Wealth and Welfare: Do Private and Public Safety Nets Compensate for Asset Poverty?](https://doi.org/10.17645/si.v11i1.5937){:target="_blank"}**, *Social Inclusion*, 2023, 11 (1),  176–186.    
 (joint with Stefan Humer)    
 <details>
   <summary>Abstract</summary>
@@ -62,7 +62,7 @@ Economic shocks test the resilience of families around the world. Lockdowns, ext
 ### Book Chapters
 <p> </p>
 
-**[Armut, Soziale Ausgrenzung und Wohnen](https://emedien.arbeiterkammer.at/viewer/ppnresolver?id=AC16852491){:target="_blank"}** [Poverty, Social Exclusion and Housing], *Soziale Lage und Sozialpolitik in Österreich*, 2023, 24. 
+**[Armut, Soziale Ausgrenzung und Wohnen](https://emedien.arbeiterkammer.at/viewer/ppnresolver?id=AC16852491){:target="_blank"}** [Poverty, Social Exclusion and Housing],  *Soziale Lage und Sozialpolitik in Österreich*, 2023, 24. 
 (joint with Karin Heitzmann)
 <details>
   <summary>Abstract</summary>
@@ -74,6 +74,13 @@ Against the background of multiple crises, welfare states face increasing challe
 <hr style="border:.25px solid grey">
 
 ### Research reports and other publications 
+<p> </p>
+
+**[ Reichtum, Natur und Wilder Westen](https://doi.org/10.59288/wug493.212){:target="_blank"}** [Wealth, Nature and the Wild West], *Wirtschaft und Gesellschaft*, 2023, 49 (3), 129-133. 
+<details>
+  <summary>Abstract</summary>
+Against the background of multiple crises, welfare states face increasing challenges in maintaining living standards and combatting poverty. This contribution reviews the evidence with respect to poverty (risk) and homelessness in Austria, while assessing welfare state change in the past decade. It supplements traditional income-based measures with a discussion of material indicators of poverty, and discusses the important role of living costs and housing for the analysis of poverty in particular. Overall, the analysis highlights the need for policy-makers not only to rely on employment as a poverty reduction strategy, but also to ensure wage growth and the provision of basic goods and services to keep the cost of living moderate.
+</details>
 <p> </p>
 
 **[Asset Bias in Household Needs Measurement](https://research.wu.ac.at/ws/portalfiles/portal/16968378/Rapp_2021_INEQ_WP_22.pdf){:target="_blank"}**, *INEQ Working Paper Series*, 2021, No. 22    
