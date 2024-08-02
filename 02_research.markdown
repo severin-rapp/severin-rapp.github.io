@@ -12,15 +12,14 @@ permalink: /research/
 ### Research papers
 <p> </p>
 
-**[Household economies of scale for wealth: The benefits of sharing with wealth-in-utility](https://severin-rapp.github.io/assets/wealtheq_JMP.pdf){:target="_blank"}**.
-Job market paper    
+**[Household economies of scale for wealth: The benefits of sharing with wealth-in-utility](https://severin-rapp.github.io/assets/wealtheq.pdf){:target="_blank"}**.
 <details>
   <summary>Abstract</summary>
 Measures of private wealth are often available only at the household or tax-unit level. But how does household wealth map into individual welfare? Analogous to household economies of scale for consumption, I argue that there are economies of scale to household wealth. This paper is the first to offer a methodology and empirical results to account for household wealth scale effects based on wealth-in-utility preferences. I propose economies of scale that differ by accumulation purpose – funding consumption as opposed to holding wealth for status or bequest motives (non-consumption). Presenting estimates of scale effects derived from stated preference data in the German Socio-Economic Panel (SOEP), I find that non-consumption economies of scale are almost perfect. In addition, the paper offers an empirical application to inequality measurement. Since non-consumption wealth matters primarily among wealthy households, adjusting household wealth for size primarily affects less affluent households, feeding into higher estimates of inequality. For example, the Palma ratio for Germany increases by up to 18% once scale effects are taken into account, and the Gini index by 3%. Beyond providing parameter estimates for a wealth-in-utility model with household size, the results have relevant applications in the measurement of inequality and optimal taxation.
 </details>
 <p> </p>
 
-**[The subjective wealth distribution: How it arises and why it matters to inform policy?](https://www.oenb.at/dam/jcr:c442f243-a839-4fd7-bc85-1d7c1b82e398/wp-249.pdf){:target="_blank"}**.
+**[The subjective wealth distribution: How it arises and why it matters to inform policy?](https://severin-rapp.github.io/assets/wealtheq.pdf){:target="_blank"}**.
 (joint with Pirmin Fessler)
 <details>
   <summary>Abstract</summary>
@@ -35,11 +34,11 @@ Recently, the influence of income and wealth distribution on aggregate savings r
 <p> </p>
 
 
-**Understanding Wealth Inequality: A Probate-Based approach**    
+**[Understanding Wealth Inequality: A Probate-Based approach](https://severin-rapp.github.io/assets/probates.pdf){:target="_blank"}**.
 (joint with Franziska Disslbacher) 
 <details>
   <summary>Abstract</summary>
-This project delivers the first administrative micro data set for wealth in Austria. We collaborate with local courts to digitise individual-level probate records. In addition to detailed data on individual balance sheets, the probate records also offer rich information on the characteristics of the deceased, as well as the process of intergenerational wealth transmission such as information on wills. We focus on the time period from 2014 to 2019. In contrast to probate records employed in previous research, such as those for Italy and the UK, there is no missing population due to minimum asset thresholds. The data will be used to benchmark survey evidence of wealth inequality in Austria. Beyond that, the data set will allow to study a wide range of research questions related to bequests and intergenerational wealth transmission.
+In many countries with fragmented or absent tax data, the evidence on intergenerational wealth transmission and wealth distribution is limited. This paper considers the potential of probate records to fill this data void, relying on digitized court files from estate settlement proceedings (probates) in Vienna. In contrast to most other administrative wealth data sets, our probate data has no missing population due to minimum asset thresholds, as the Austrian courts create files for all deceased individuals. While the top 1% of completed probate cases account for 39% of wealth, almost half of the probate cases have zero or negative net wealth. We also shed light on the role of heirs in probate proceedings, revealing that a non-negligible minority (6%) of heirs do not accept their inheritance. The paper highlights the value of contemporary probate records for research. As we uncover substantial debt at the bottom of the distribution, the findings have implications for the mortality-multiplier method. In addition, we illustrate the important role of heir choices in shaping the probate process and the link between the distribution of bequests and inheritances.
 </details>
 <p> </p>
 
