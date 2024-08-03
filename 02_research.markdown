@@ -28,11 +28,6 @@ Recently, the influence of income and wealth distribution on aggregate savings r
 <p> </p>
 
 
-<hr style="border:.25px solid grey">
-
-### Ongoing projects
-<p> </p>
-
 
 **[Understanding Wealth Inequality: A Probate-Based approach](https://severin-rapp.github.io/assets/probates.pdf){:target="_blank"}**.
 (joint with Franziska Disslbacher) 
@@ -41,6 +36,16 @@ Recently, the influence of income and wealth distribution on aggregate savings r
 In many countries with fragmented or absent tax data, the evidence on intergenerational wealth transmission and wealth distribution is limited. This paper considers the potential of probate records to fill this data void, relying on digitized court files from estate settlement proceedings (probates) in Vienna. In contrast to most other administrative wealth data sets, our probate data has no missing population due to minimum asset thresholds, as the Austrian courts create files for all deceased individuals. While the top 1% of completed probate cases account for 39% of wealth, almost half of the probate cases have zero or negative net wealth. We also shed light on the role of heirs in probate proceedings, revealing that a non-negligible minority (6%) of heirs do not accept their inheritance. The paper highlights the value of contemporary probate records for research. As we uncover substantial debt at the bottom of the distribution, the findings have implications for the mortality-multiplier method. In addition, we illustrate the important role of heir choices in shaping the probate process and the link between the distribution of bequests and inheritances.
 </details>
 <p> </p>
+
+ <! --
+
+
+<hr style="border:.25px solid grey">
+
+### Ongoing projects
+<p> </p>
+
+-->
 
 
 <hr style="border:.25px solid grey">
