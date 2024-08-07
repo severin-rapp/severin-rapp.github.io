@@ -19,14 +19,13 @@ Measures of private wealth are often available only at the household or tax-unit
 </details>
 <p> </p>
 
-**[The subjective wealth distribution: How it arises and why it matters to inform policy?](https://severin-rapp.github.io/assets/wealtheq.pdf){:target="_blank"}**.
+**[The subjective wealth distribution: How it arises and why it matters to inform policy?](https://severin-rapp.github.io/assets/subwlth.pdf){:target="_blank"}**.
 (joint with Pirmin Fessler)
 <details>
   <summary>Abstract</summary>
 Recently, the influence of income and wealth distribution on aggregate savings receives considerable attention. While most studies have focused on measured income distributions, we emphasize the critical role of individuals’ subjective perceptions in economic decision-making. Our results largely align with standard economic theory, asserting the importance of wealth and (permanent) income for the savings rate. Additionally, our results introduce a potential new dimension: the relevance of an individual’s perceived position within the wealth distribution. Using unique wealth survey data, we uncover a significant bias in self-assessed distributional ranks. Our estimates indicate that descriptively individuals who underestimate their wealth rank have a savings rate approximately 50% higher than those who assess their rank accurately. This robust finding persists in our predictive effects of smaller size (underestimating ones wealth rank by 1 wealth decile goes along with a 0.8 percentage point higher savings rate) even after controlling for wealth and income and a range of household and individual characteristics. To identify a causal effect of 2.3 percentage points per wealth decile underestimation, we introduce a novel Instrumental Variable (IV) approach, leveraging the implementation of a wage transparency law. Importantly, this IV approach is less prone to errors arising from common support issues, as it relies solely on the differences in perceived wealth ranks that are explainable by the policy. Our findings offer valuable insights for contemporary macroeconomic models and contribute to the understanding of how social segregation and information bubbles impact economic decisions, mediated through individual perceptions of relative wealth.
 </details>
 <p> </p>
-
 
 
 **[Understanding Wealth Inequality: A Probate-Based approach](https://severin-rapp.github.io/assets/probates.pdf){:target="_blank"}**.
@@ -37,15 +36,6 @@ In many countries with fragmented or absent tax data, the evidence on intergener
 </details>
 <p> </p>
 
- <! --
-
-
-<hr style="border:.25px solid grey">
-
-### Ongoing projects
-<p> </p>
-
--->
 
 
 <hr style="border:.25px solid grey">
