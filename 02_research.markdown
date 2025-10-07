@@ -12,28 +12,28 @@ permalink: /research/
 ### Research papers
 <p> </p>
 
-**[Household economies of scale for wealth: The benefits of sharing with wealth-in-utility](https://severin-rapp.github.io/assets/wealtheq.pdf){:target="_blank"}**.
+**[The Good Council: Deliberating inequality in a field experiment](){:target="_blank"}**.
+(joint with Franziska Disslbacher, Martin Haselmayer, Lukas Lehner, and Franziska Windisch)
 <details>
   <summary>Abstract</summary>
-Measures of private wealth are often available only at the household or tax-unit level. But how does household wealth map into individual welfare? Analogous to household economies of scale for consumption, I argue that there are economies of scale to household wealth. This paper is the first to offer a methodology and empirical results to account for household wealth scale effects based on wealth-in-utility preferences. I propose economies of scale that differ by accumulation purpose – funding consumption as opposed to holding wealth for status or bequest motives (non-consumption). Presenting estimates of scale effects derived from stated preference data in the German Socio-Economic Panel (SOEP), I find that non-consumption economies of scale are almost perfect. In addition, the paper offers an empirical application to inequality measurement. Since non-consumption wealth matters primarily among wealthy households, adjusting household wealth for size primarily affects less affluent households, feeding into higher estimates of inequality. For example, the Palma ratio for Germany increases by up to 18% once scale effects are taken into account, and the Gini index by 3%. Beyond providing parameter estimates for a wealth-in-utility model with household size, the results have relevant applications in the measurement of inequality and optimal taxation.
+This paper investigates how participation in a citizens' assembly affects individuals' redistributive preferences and (perceived) role in democracy. We implement a pre-registered field experiment embedded in a real-world citizens' assembly on wealth inequality in Austria. Using a three-group-design comparing assembly participants, non-selected volunteers, and a population sample, we isolate the causal effects of taking part in a citizens' assembly from self-selection into participation. We find that while participating in the citizens' assembly substantially improves factual knowledge about the wealth distribution and promotes convergence around specific tax policy proposals, notably a EUR 1 million allowance, it has no measurable effect on political efficacy or broader civic engagement. We also document significant political self-selection: individuals willing to participate in the citizens' assembly were already more engaged and supportive of redistribution than the general population. These findings suggest that while deliberative formats can foster informed convergence on policy proposals, their ability to mobilize broader publics is limited -- especially if they primarily engage the already supportive and, as in this case, lack institutional anchoring that might facilitate spillover into more institutionalized political arenas.
 </details>
 <p> </p>
 
-
-**[The subjective wealth distribution: How it arises and why it matters to inform policy?](https://severin-rapp.github.io/assets/subwlth.pdf){:target="_blank"}**.
+**[Do biased perceptions of wealth distribution affect savings behavior?](https://severin-rapp.github.io/assets/subwlth_stone.pdf){:target="_blank"}**.
 (joint with Pirmin Fessler)
 <details>
   <summary>Abstract</summary>
-Recently, the influence of income and wealth distribution on aggregate savings receives considerable attention. While most studies have focused on measured income distributions, we emphasize the critical role of individuals’ subjective perceptions in economic decision-making. Our results largely align with standard economic theory, asserting the importance of wealth and (permanent) income for the savings rate. Additionally, our results introduce a potential new dimension: the relevance of an individual’s perceived position within the wealth distribution. Using unique wealth survey data, we uncover a significant bias in self-assessed distributional ranks. Our estimates indicate that descriptively individuals who underestimate their wealth rank have a savings rate approximately 50% higher than those who assess their rank accurately. This robust finding persists in our predictive effects of smaller size (underestimating ones wealth rank by 1 wealth decile goes along with a 0.8 percentage point higher savings rate) even after controlling for wealth and income and a range of household and individual characteristics. To identify a causal effect of 2.3 percentage points per wealth decile underestimation, we introduce a novel Instrumental Variable (IV) approach, leveraging the implementation of a wage transparency law. Importantly, this IV approach is less prone to errors arising from common support issues, as it relies solely on the differences in perceived wealth ranks that are explainable by the policy. Our findings offer valuable insights for contemporary macroeconomic models and contribute to the understanding of how social segregation and information bubbles impact economic decisions, mediated through individual perceptions of relative wealth.
+We estimate the relationship between people's biased perceptions of their rank in the wealth distribution and savings behavior. Using survey data from Austria, we show that there is a relationship between misperceptions and savings that is statistically significant at least at the 5% level. A one-decile downward deviation in perceived rank, relative to one’s decile based on observed wealth, is associated with a 5\% increase in the savings rate evaluated at the mean (predictive estimate). When using an instrumental variables approach, the estimated effect increases substantially to 18%. Preferences that feature relative wealth in the utility function can explain this relationship. Our findings inform contemporary macroeconomic models and have important implications for policy.
 </details>
 <p> </p>
 
 
-**[Understanding Wealth Inequality: A Probate-Based approach](https://severin-rapp.github.io/assets/probates.pdf){:target="_blank"}**.
+**[Leaving legacies and liabilities: The distribution of wealth at death](https://severin-rapp.github.io/assets/probates_wil.pdf){:target="_blank"}**.
 (joint with Franziska Disslbacher) 
 <details>
   <summary>Abstract</summary>
-In many countries with fragmented or absent tax data, the evidence on intergenerational wealth transmission and wealth distribution is limited. This paper considers the potential of probate records to fill this data void, relying on digitized court files from estate settlement proceedings (probates) in Vienna. In contrast to most other administrative wealth data sets, our probate data has no missing population due to minimum asset thresholds, as the Austrian courts create files for all deceased individuals. While the top 1% of completed probate cases account for 39% of wealth, almost half of the probate cases have zero or negative net wealth. We also shed light on the role of heirs in probate proceedings, revealing that a non-negligible minority (6%) of heirs do not accept their inheritance. The paper highlights the value of contemporary probate records for research. As we uncover substantial debt at the bottom of the distribution, the findings have implications for the mortality-multiplier method. In addition, we illustrate the important role of heir choices in shaping the probate process and the link between the distribution of bequests and inheritances.
+This paper leverages novel administrative data on terminal wealth in Vienna to show that Gini indices of wealth inequality at death exceed unity, with 20-30% of decedents leaving behind debt. We analyze the drivers of this distribution, finding that the drivers of terminal wealth (distribution) are different from determinants of wealth (inequality) among the living. Life- cycle effects have limited explanatory power. In contrast, bequest motives are associated with higher wealth and a marginal increase in the share of decedents that reveal preferences on post-mortem resource allocations reduces inequality. Homeownership also correlates with higher wealth (the reverse is true for care-home residency), though housing wealth does not benefit the bottom of the distribution across districts. Finally, means-tested long-term care transfers significantly amplify terminal wealth inequality.
 </details>
 <p> </p>
 
@@ -42,6 +42,13 @@ In many countries with fragmented or absent tax data, the evidence on intergener
 <hr style="border:.25px solid grey">
 
 ### Journal publications
+<p> </p>
+
+**[Economies of Scale for Household Wealth: An Analysis of Equivalence Scales](https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.70002){:target="_blank"}**, *Review of Income and Wealth*, 2025, 71 (1), e70002. 
+<details>
+  <summary>Abstract</summary>
+Measures of private wealth are often available only at the household or tax-unit level. But how does household wealth map into individual welfare? Analogous to household economies of scale for consumption, I argue that there are economies of scale to household wealth. This paper is the first to offer a methodology and empirical results to account for household wealth scale effects based on wealth-in-utility preferences. I propose economies of scale that differ by accumulation purpose – funding consumption as opposed to holding wealth for status or bequest motives (non-consumption). Presenting estimates of scale effects derived from stated preference data in the German Socio-Economic Panel (SOEP), I find that non-consumption economies of scale are almost perfect. In addition, the paper offers an empirical application to inequality measurement. Since non-consumption wealth matters primarily among wealthy households, adjusting household wealth for size primarily affects less affluent households, feeding into higher estimates of inequality. For example, the Palma ratio for Germany increases by up to 18% once scale effects are taken into account, and the Gini index by 3%. Beyond providing parameter estimates for a wealth-in-utility model with household size, the results have relevant applications in the measurement of inequality and optimal taxation.
+</details>
 <p> </p>
 
 **[Wealth and Welfare: Do Private and Public Safety Nets Compensate for Asset Poverty?](https://doi.org/10.17645/si.v11i1.5937){:target="_blank"}**, *Social Inclusion*, 2023, 11 (1),  176–186.    
@@ -69,6 +76,14 @@ Against the background of multiple crises, welfare states face increasing challe
 <hr style="border:.25px solid grey">
 
 ### Research reports and other publications 
+<p> </p>
+
+**[Parenting on a budget: The cost of raising children in changing family configurations and its policy implications](https://severin-rapp.github.io/assets/oecdkids_oecd.pdf){:target="_blank"}**, *OECD Papers on Well-being and Inequalities*, 2025, No. 36   
+(joint with Olivier Thévenon) 
+<details>
+  <summary>Abstract</summary>
+This paper examines how the diversity of family configurations and living arrangements impacts the cost of raising children in OECD European countries. It uses data from the European Household Budget Surveys and the European Surveys of Income and Living Conditions, including the 2021 ad hoc module on family arrangements. The analysis explores the impact of factors such as the number, age, and presence of ‘non-resident’ children on the cost of raising children. The paper highlights the complementary nature of information from household expenditure data and self-reported ability to make ends meet, especially in characterising the situation of particularly vulnerable households. For example, single-parent households in several countries struggle to make ends meet, reporting greater difficulties than the cost suggested with the share of household budgets estimated to be spent on children. Moreover, non-resident children, such as those in shared custody arrangements impose financial burdens on "non-custodial" households. Gathering more detailed information on family structures and living conditions is essential for accurately estimating the costs associated with children in shared or fully non-residential living arrangements. Additionally, this approach provides a clearer understanding of the impact of these arrangements on financial hardship, particularly for single-parent households.
+</details>
 <p> </p>
 
 **[ Reichtum, Natur und Wilder Westen](https://doi.org/10.59288/wug493.212){:target="_blank"}** [Wealth, Nature and the Wild West], *Wirtschaft und Gesellschaft*, 2023, 49 (3), 129-133. 
