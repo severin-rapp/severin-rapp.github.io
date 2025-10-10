@@ -8,6 +8,8 @@ permalink: /outreach/
 ## Outreach 
 <p> </p>
 
+Die Presse, 2024. ["Wie viel eine Erbschaftssteuer bringen könnte"](https://www.diepresse.com/19002591/wie-viel-eine-erbschaftssteuer-bringen-koennte)
+
 Wiener Zeitung, 2023. ["Wie viel erben wir?"](https://www.wienerzeitung.at/a/oekonowie-erbschaftssteuer)
 
 Oe1 Abendjounral, 2023. "Armut in Österreich" 
