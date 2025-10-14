@@ -26,7 +26,7 @@ Welfare states across the OECD subsidize life insurance uptake. Upon death, thes
 ### Research papers
 <p> </p>
 
-**[The Good Council: Deliberating inequality in a field experiment](https://severin-rapp.github.io/assets/goodcouncil_stone.pdf)){:target="_blank"}**.
+**[The Good Council: Deliberating inequality in a field experiment](https://severin-rapp.github.io/assets/goodcouncil_stone.pdf){:target="_blank"}**.
 (joint with Franziska Disslbacher, Martin Haselmayer, Lukas Lehner, and Franziska Windisch)
 <details>
   <summary>Abstract</summary>
