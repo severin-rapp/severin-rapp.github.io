@@ -11,11 +11,11 @@ permalink: /research/
 ### Job Market Paper 
 <p> </p>
 
-**[Life Insurance and Death Benefits: What Shapes Participation, and Does It Matter for Inequality?](https://severin-rapp.github.io/assets/insuranceVie_ec.pdf){:target="_blank"}**.
+**[Life Insurance and Wealth: What Shapes Participation and Do Tax Incentives Matter?](https://severin-rapp.github.io/assets/insuranceVie_ec.pdf){:target="_blank"}**.
 (joint with Franziska Disslbacher)
 <details>
   <summary>Abstract</summary>
-Welfare states across the OECD subsidize life insurance uptake. Upon death, these policies pay death benefits. We study how death benefits supplement bequests and why people take out insurance, including the role of tax incentives. In a novel administrative data set on wealth at death from Vienna, Austria, we link death benefits to terminal wealth and sociodemographics and study responses to an income tax reform that changed the tax treatment of insurance premia. We offer several novel facts. First, death benefits primarily supplement small- to mid-size estates and reduce inequality of bequests by up to 8\%. Second, most payouts are final-expense policies that insure funerals; other benefits are tied to the presence of survivors, are hump-shaped over decedents’ age, and contribute little to terminal wealth. Third, take-up of final-expense insurance responds to tax incentives, while other life insurance and net wealth at death do not. Our results shed new light on the motives to take out life insurance, the distributional importance of benefits and the tax treatment of insurance. 
+Welfare states across the OECD incentivize life insurance take-up. Using a novel administrative data set on wealth at death from Vienna, Austria, we study how death benefits from life insurances supplement the balance sheets of individuals who die with low wealth, and how they respond to an income tax reform that changed the tax treatment of insurance premia. At least 38.7\% of estates comprise little or no wealth. Death benefits account for 18\% of terminal assets in the bottom five deciles of the distribution of estates, on average. Most payouts are final-expense policies that insure funerals. Take-up of final-expense insurance responds to tax incentives, while other life insurance and net wealth at death do not. Our results shed new light on the motives to take out life insurance, the distributional importance of benefits and the tax treatment of insurance. 
 </details>
 <p> </p>
 
