@@ -34,7 +34,7 @@ This paper investigates how participation in a citizens' assembly affects indivi
 </details>
 <p> </p>
 
-**[Do biased perceptions of wealth distribution affect savings behavior?](https://severin-rapp.github.io/assets/subwlth_stone.pdf){:target="_blank"}**.
+**[Do biased perceptions of wealth distribution affect savings behavior?](https://severin-rapp.github.io/assets/subwlth.pdf){:target="_blank"}**.
 (joint with Pirmin Fessler)
 <details>
   <summary>Abstract</summary>
