@@ -26,8 +26,18 @@ Welfare states across the OECD incentivize life insurance take-up. Using a novel
 ### Research papers
 <p> </p>
 
+
+**[Wealth Composition, Distribution, and Transmission: The Graduate Center Wealth Project Data Warehouse](https://doi.org/10.5281/zenodo.16048795}{https://doi.org/10.5281/zenodo.16048795){:target="_blank"}**.
+(joint with  Max Longmuir, Franziska Disslbacher, Frincasco Di Biase, Giacomo Rella, Francesca Subioli, Adam Johnson, Matteo Targa, Salvatore Morelli, Manuel Schechtl, Twisha Asher, Luca Giangregorio and Ignacio Flores) - R&R stage
+<details>
+  <summary>Abstract</summary>
+Private wealth, as well as its distribution and intergenerational transmission have become much-debated issues. However, existing evidence remains fragmented, context-dependent, and sometimes contested. This data descriptor introduces the GC Wealth Project data warehouse, a dataset covering multiple countries and time periods, designed to address these challenges. The dataset consolidates most existing evidence on private wealth and undertakes a significant data harmonization effort. We supplement each data point with extensive metadata on methodology and add new data. The data warehouse features an extensive collection of information on the household wealth levels and balance sheets, along with distributional statistics from a wide range of sources. Moreover, it draws together data on wealth transfer tax revenues, and tax features such as rates, exemption thresholds, and tax schedules. The broad range of data sources in the warehouse allows users to assess the degree of heterogeneity of estimates, and how methodological choices affect measurement outcomes. The new data points and policy indicators also allow extending quantitative analysis of wealth and public policy.
+</details>
+<p> </p>
+
+
 **[The Good Council: Deliberating inequality in a field experiment](https://severin-rapp.github.io/assets/goodcouncil_stone.pdf){:target="_blank"}**.
-(joint with Franziska Disslbacher, Martin Haselmayer, Lukas Lehner, and Franziska Windisch)
+(joint with Franziska Disslbacher, Martin Haselmayer, Lukas Lehner, and Franziska Windisch) - under review
 <details>
   <summary>Abstract</summary>
 This paper investigates how participation in a citizens' assembly affects individuals' redistributive preferences and (perceived) role in democracy. We implement a pre-registered field experiment embedded in a real-world citizens' assembly on wealth inequality in Austria. Using a three-group-design comparing assembly participants, non-selected volunteers, and a population sample, we isolate the causal effects of taking part in a citizens' assembly from self-selection into participation. We find that while participating in the citizens' assembly substantially improves factual knowledge about the wealth distribution and promotes convergence around specific tax policy proposals, notably a EUR 1 million allowance, it has no measurable effect on political efficacy or broader civic engagement. We also document significant political self-selection: individuals willing to participate in the citizens' assembly were already more engaged and supportive of redistribution than the general population. These findings suggest that while deliberative formats can foster informed convergence on policy proposals, their ability to mobilize broader publics is limited -- especially if they primarily engage the already supportive and, as in this case, lack institutional anchoring that might facilitate spillover into more institutionalized political arenas.
@@ -35,7 +45,7 @@ This paper investigates how participation in a citizens' assembly affects indivi
 <p> </p>
 
 **[Do biased perceptions of wealth distribution affect savings behavior?](https://severin-rapp.github.io/assets/subwlth.pdf){:target="_blank"}**.
-(joint with Pirmin Fessler)
+(joint with Pirmin Fessler) - under review
 <details>
   <summary>Abstract</summary>
 We estimate the relationship between people's biased perceptions of their rank in the wealth distribution and savings behavior. Using survey data from Austria, we show that there is a relationship between misperceptions and savings that is statistically significant at least at the 5% level. A one-decile downward deviation in perceived rank, relative to one’s decile based on observed wealth, is associated with a 5\% increase in the savings rate evaluated at the mean (predictive estimate). When using an instrumental variables approach, the estimated effect increases substantially to 18%. Preferences that feature relative wealth in the utility function can explain this relationship. Our findings inform contemporary macroeconomic models and have important implications for policy.
