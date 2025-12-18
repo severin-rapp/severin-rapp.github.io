@@ -27,7 +27,7 @@ Welfare states across the OECD incentivize life insurance take-up. Using a novel
 <p> </p>
 
 
-**[Wealth Composition, Distribution, and Transmission: The Graduate Center Wealth Project Data Warehouse](https://doi.org/10.5281/zenodo.16048795}{https://doi.org/10.5281/zenodo.16048795){:target="_blank"}**.
+**[Wealth Composition, Distribution, and Transmission: The Graduate Center Wealth Project Data Warehouse](https://doi.org/10.5281/zenodo.16048795){:target="_blank"}**.
 (joint with  Max Longmuir, Franziska Disslbacher, Frincasco Di Biase, Giacomo Rella, Francesca Subioli, Adam Johnson, Matteo Targa, Salvatore Morelli, Manuel Schechtl, Twisha Asher, Luca Giangregorio and Ignacio Flores) - R&R stage
 <details>
   <summary>Abstract</summary>
