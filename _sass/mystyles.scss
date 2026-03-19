@@ -70,12 +70,150 @@ strong{
   justify-content: center;
   height: 1.5em;
   font-size: 14px;
-  padding-left: 20px; 
-  padding-right: 20px; 
+  padding-left: 20px;
+  padding-right: 20px;
   background-color: $brand-color;
   color: #fff;
   &:hover{
     text-decoration: none;
     opacity: 0.7;
   }
+}
+
+// ============================
+// Tufte-style layout for research page
+// ============================
+
+// Widen the wrapper when Tufte paper entries are present
+#top .page-content .wrapper:has(.paper-entry) {
+  max-width: 1060px;
+}
+
+.paper-entry {
+  display: grid;
+  grid-template-columns: 1fr 33%;
+  gap: 0 2.8rem;
+  margin-bottom: 2.8rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+
+  @include media-query($on-palm) {
+    display: block;
+  }
+}
+
+.paper-main {
+  // main text column — left side
+}
+
+.paper-title {
+  margin-bottom: 0.35rem;
+  margin-top: 0;
+  font-size: 1rem;
+
+  a {
+    color: $text-color;
+    border-bottom: 1px solid rgba($brand-color, 0.3);
+    text-decoration: none;
+    transition: border-color 0.2s;
+
+    &:hover {
+      border-bottom-color: $brand-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.paper-sentence {
+  color: #5a4a42;
+  font-size: 0.95rem;
+  margin-bottom: 0.7rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.paper-sidenote {
+  font-size: 0.8rem;
+  line-height: 1.55;
+  color: #6b5c52;
+  border-left: 2px solid rgba($brand-color, 0.2);
+  padding-left: 1rem;
+
+  @include media-query($on-palm) {
+    display: none;
+  }
+
+  p {
+    margin-bottom: 0.4rem;
+    font-size: 0.8rem;
+  }
+}
+
+.placeholder-img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, #e8ddd0 0%, #d4c9bc 60%, #c8bdb0 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #a09080;
+  font-size: 0.65rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin-bottom: 0.65rem;
+  border: 1px solid #d4c9bc;
+}
+
+.sidenote-meta {
+  color: #7a6a60;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  margin-bottom: 0.3rem;
+
+  em {
+    font-style: italic;
+    color: $brand-color;
+    font-size: 0.75rem;
+  }
+}
+
+// details/summary styling
+details {
+  margin-top: 0.6rem;
+
+  summary {
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: $brand-color;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    border-bottom: 1px solid rgba($brand-color, 0.3);
+    padding-bottom: 1px;
+
+    &:hover {
+      opacity: 0.75;
+    }
+  }
+
+  p, & > *:not(summary) {
+    font-size: 0.88rem;
+    color: #444;
+    line-height: 1.6;
+    margin-top: 0.6rem;
+  }
+}
+
+// Tufte section header spacing
+.tufte-section-header {
+  margin-top: 2rem;
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid rgba($brand-color, 0.15);
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+  color: #3a2a22;
 }
