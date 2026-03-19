@@ -1,4 +1,6 @@
 #top .site-header{
+  border-bottom: none !important;
+  box-shadow: none !important;
   // background: #002147;
   // border-top-color: #fff;
   // .site-title{
@@ -64,6 +66,19 @@ strong{
   font-weight: 700;
 }
 
+// Black underlined links for all content areas
+#top .post-content a:not(.button),
+#top .page-content a:not(.button) {
+  color: $text-color !important;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+
+  &:hover {
+    opacity: 0.55;
+    text-decoration: underline;
+  }
+}
+
 #top .button{
   display: inline-flex;
   align-items: center;
@@ -124,7 +139,7 @@ strong{
 
 .paper-apa {
   font-size: 0.84rem;
-  color: #555;
+  color: $text-color;
   line-height: 1.55;
   margin-bottom: 0.4rem;
 
@@ -141,7 +156,7 @@ strong{
 }
 
 .paper-sentence {
-  color: #5a4a42;
+  color: $text-color;
   font-size: 0.95rem;
   margin-bottom: 0.5rem;
   font-style: italic;
@@ -175,7 +190,7 @@ strong{
 .paper-sidenote {
   font-size: 0.8rem;
   line-height: 1.55;
-  color: #6b5c52;
+  color: $text-color;
 
   @include media-query($on-palm) {
     display: none;
@@ -203,14 +218,15 @@ strong{
 }
 
 .sidenote-meta {
-  color: #7a6a60;
+  color: $text-color;
   font-size: 0.78rem;
   line-height: 1.5;
   margin-bottom: 0.3rem;
+  display: none;
 
   em {
     font-style: italic;
-    color: #555;
+    color: $text-color;
     font-size: 0.75rem;
   }
 }
@@ -237,7 +253,7 @@ details {
 
   p, & > *:not(summary) {
     font-size: 0.88rem;
-    color: #444;
+    color: $text-color;
     line-height: 1.6;
     margin-top: 0.6rem;
   }
@@ -255,8 +271,8 @@ details {
   margin-top: 2rem;
   margin-bottom: 1.2rem;
   padding-bottom: 0.3rem;
-  border-bottom: 1px solid rgba($brand-color, 0.15);
+  border-bottom: 1px solid rgba($text-color, 0.15);
   font-size: 1rem;
   letter-spacing: 0.04em;
-  color: #3a2a22;
+  color: $text-color;
 }
