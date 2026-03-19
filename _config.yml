@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: severin_rapp
 github_username:  severin-rapp
 linkedin_username: severin-rapp
+googlescholar_link: https://scholar.google.com/citations?user=q6WKBtoAAAAJ
+bluesky_username: severinrapp.bsky.social
 
 nav_ext_links:
   - name: CV

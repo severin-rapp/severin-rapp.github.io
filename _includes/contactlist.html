@@ -34,6 +34,12 @@
   </li>
   {% endif %}
 
+  {% if site.bluesky_username %}
+  <li>
+    {% include _icons/bluesky.html username=site.bluesky_username %}
+  </li>
+  {% endif %}
+
   {% if site.uni_link %}
   <li>
     {% include _icons/uni.html link=site.uni_link %}
