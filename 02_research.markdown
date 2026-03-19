@@ -9,6 +9,26 @@ permalink: /research/
 
 <h3 class="tufte-section-header">Journal Publications</h3>
 
+
+<div class="paper-entry">
+<div class="paper-main">
+<p class="paper-apa">Rapp, S., Longmuir, M., Disslbacher, F., Di Biase, F., Rella, G., Subioli, F., Johnson, A., Targa, M., Morelli, S., Schechtl, M., Asher, T., Giangregorio, L., &amp; Flores, I. (forthcoming). <a href="https://doi.org/10.5281/zenodo.16048795" target="_blank">Wealth composition, distribution, and transmission: The Graduate Center Wealth Project data warehouse</a>. <em>Scientific Data</em>.</p>
+<p class="paper-sentence">Introduces a harmonized multi-country dataset consolidating evidence on wealth levels, distribution, intergenerational transmission, and wealth taxation.</p>
+<div class="paper-actions">
+<details>
+  <summary>Abstract</summary>
+  <p>Private wealth, as well as its distribution and intergenerational transmission have become much-debated issues. However, existing evidence remains fragmented, context-dependent, and sometimes contested. This data descriptor introduces the GC Wealth Project data warehouse, a dataset covering multiple countries and time periods, designed to address these challenges. The dataset consolidates most existing evidence on private wealth and undertakes a significant data harmonization effort. We supplement each data point with extensive metadata on methodology and add new data. The data warehouse features an extensive collection of information on the household wealth levels and balance sheets, along with distributional statistics from a wide range of sources. Moreover, it draws together data on wealth transfer tax revenues, and tax features such as rates, exemption thresholds, and tax schedules. The broad range of data sources in the warehouse allows users to assess the degree of heterogeneity of estimates, and how methodological choices affect measurement outcomes. The new data points and policy indicators also allow extending quantitative analysis of wealth and public policy.</p>
+</details>
+<a href="https://doi.org/10.5281/zenodo.16048795" target="_blank" class="paper-link">Data Repository ↗</a>
+</div>
+</div>
+<aside class="paper-sidenote">
+<div class="placeholder-img"><span>Key Figure</span></div>
+<p class="sidenote-meta">Joint with <strong>Max Longmuir, Franziska Disslbacher</strong> et al.</p>
+<p class="sidenote-meta"><em>R&amp;R</em></p>
+</aside>
+</div>
+
 <div class="paper-entry">
 <div class="paper-main">
 <p class="paper-apa">Rapp, S. (2025). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.70002" target="_blank">Economies of scale for household wealth: An analysis of equivalence scales</a>. <em>Review of Income and Wealth</em>, <em>71</em>(1), e70002.</p>
@@ -54,45 +74,6 @@ permalink: /research/
 
 <div class="paper-entry">
 <div class="paper-main">
-<p class="paper-apa">Rapp, S., &amp; Disslbacher, F. (n.d.). <em><a href="https://severin-rapp.github.io/assets/insuranceVie_ec.pdf" target="_blank">Life insurance and wealth: What shapes participation and do tax incentives matter?</a></em> [Working paper].</p>
-<p class="paper-sentence">Most life insurance held by low-wealth individuals covers funeral costs, and take-up of funeral insurance responds to tax incentives while broader net wealth at death does not.</p>
-<div class="paper-actions">
-<details>
-  <summary>Abstract</summary>
-  <p>Welfare states across the OECD incentivize life insurance take-up. Using a novel administrative data set on wealth at death from Vienna, Austria, we study how death benefits from life insurances supplement the balance sheets of individuals who die with low wealth, and how they respond to an income tax reform that changed the tax treatment of insurance premia. At least 38.7% of estates comprise little or no wealth. Death benefits account for 18% of terminal assets in the bottom five deciles of the distribution of estates, on average. Most payouts are final-expense policies that insure funerals. Take-up of final-expense insurance responds to tax incentives, while other life insurance and net wealth at death do not. Our results shed new light on the motives to take out life insurance, the distributional importance of benefits and the tax treatment of insurance.</p>
-</details>
-<a href="https://severin-rapp.github.io/assets/insuranceVie_ec.pdf" target="_blank" class="paper-link">PDF ↗</a>
-</div>
-</div>
-<aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
-<p class="sidenote-meta">Joint with <strong>Franziska Disslbacher</strong></p>
-<p class="sidenote-meta"><em>Working paper</em></p>
-<p class="sidenote-meta">Data: Administrative wealth-at-death records, Vienna</p>
-</aside>
-</div>
-
-<div class="paper-entry">
-<div class="paper-main">
-<p class="paper-apa">Rapp, S., Longmuir, M., Disslbacher, F., Di Biase, F., Rella, G., Subioli, F., Johnson, A., Targa, M., Morelli, S., Schechtl, M., Asher, T., Giangregorio, L., &amp; Flores, I. (n.d.). <a href="https://doi.org/10.5281/zenodo.16048795" target="_blank">Wealth composition, distribution, and transmission: The Graduate Center Wealth Project data warehouse</a>. [R&amp;R].</p>
-<p class="paper-sentence">Introduces a harmonized multi-country dataset consolidating evidence on wealth levels, distribution, intergenerational transmission, and wealth taxation.</p>
-<div class="paper-actions">
-<details>
-  <summary>Abstract</summary>
-  <p>Private wealth, as well as its distribution and intergenerational transmission have become much-debated issues. However, existing evidence remains fragmented, context-dependent, and sometimes contested. This data descriptor introduces the GC Wealth Project data warehouse, a dataset covering multiple countries and time periods, designed to address these challenges. The dataset consolidates most existing evidence on private wealth and undertakes a significant data harmonization effort. We supplement each data point with extensive metadata on methodology and add new data. The data warehouse features an extensive collection of information on the household wealth levels and balance sheets, along with distributional statistics from a wide range of sources. Moreover, it draws together data on wealth transfer tax revenues, and tax features such as rates, exemption thresholds, and tax schedules. The broad range of data sources in the warehouse allows users to assess the degree of heterogeneity of estimates, and how methodological choices affect measurement outcomes. The new data points and policy indicators also allow extending quantitative analysis of wealth and public policy.</p>
-</details>
-<a href="https://doi.org/10.5281/zenodo.16048795" target="_blank" class="paper-link">Zenodo ↗</a>
-</div>
-</div>
-<aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
-<p class="sidenote-meta">Joint with <strong>Max Longmuir, Franziska Disslbacher</strong> et al.</p>
-<p class="sidenote-meta"><em>R&amp;R</em></p>
-</aside>
-</div>
-
-<div class="paper-entry">
-<div class="paper-main">
 <p class="paper-apa">Rapp, S., Disslbacher, F., Haselmayer, M., Lehner, L., &amp; Windisch, F. (n.d.). <em><a href="https://severin-rapp.github.io/assets/goodcouncil_stone.pdf" target="_blank">The good council: Deliberating inequality in a field experiment</a></em>. [Under review].</p>
 <p class="paper-sentence">A citizens' assembly on wealth inequality improves factual knowledge and fosters policy convergence but leaves political efficacy and broader civic engagement unchanged.</p>
 <div class="paper-actions">
@@ -113,7 +94,7 @@ permalink: /research/
 
 <div class="paper-entry">
 <div class="paper-main">
-<p class="paper-apa">Rapp, S., &amp; Fessler, P. (n.d.). <em><a href="https://severin-rapp.github.io/assets/subwlth.pdf" target="_blank">Do biased perceptions of wealth distribution affect savings behavior?</a></em> [Under review].</p>
+<p class="paper-apa">Rapp, S., &amp; Fessler, P. (n.d.). <em><a href="https://severin-rapp.github.io/assets/subwlth.pdf" target="_blank">Do biased perceptions of wealth distribution affect savings behavior?</a></em> [Revise and Resubmit at Management Science].</p>
 <p class="paper-sentence">Downward misperceptions of one's rank in the wealth distribution are associated with substantially higher savings rates, consistent with relative wealth in the utility function.</p>
 <div class="paper-actions">
 <details>
@@ -146,6 +127,26 @@ permalink: /research/
 <aside class="paper-sidenote">
 <div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta">Joint with <strong>Franziska Disslbacher</strong></p>
+<p class="sidenote-meta">Data: Administrative wealth-at-death records, Vienna</p>
+</aside>
+</div>
+
+<div class="paper-entry">
+<div class="paper-main">
+<p class="paper-apa">Rapp, S., &amp; Disslbacher, F. (n.d.). <em><a href="https://severin-rapp.github.io/assets/insuranceVie_ec.pdf" target="_blank">Life insurance and wealth: What shapes participation and do tax incentives matter?</a></em> [Working paper].</p>
+<p class="paper-sentence">Most life insurance held by low-wealth individuals covers funeral costs, and take-up of funeral insurance responds to tax incentives while broader net wealth at death does not.</p>
+<div class="paper-actions">
+<details>
+  <summary>Abstract</summary>
+  <p>Welfare states across the OECD incentivize life insurance take-up. Using a novel administrative data set on wealth at death from Vienna, Austria, we study how death benefits from life insurances supplement the balance sheets of individuals who die with low wealth, and how they respond to an income tax reform that changed the tax treatment of insurance premia. At least 38.7% of estates comprise little or no wealth. Death benefits account for 18% of terminal assets in the bottom five deciles of the distribution of estates, on average. Most payouts are final-expense policies that insure funerals. Take-up of final-expense insurance responds to tax incentives, while other life insurance and net wealth at death do not. Our results shed new light on the motives to take out life insurance, the distributional importance of benefits and the tax treatment of insurance.</p>
+</details>
+<a href="https://severin-rapp.github.io/assets/insuranceVie_ec.pdf" target="_blank" class="paper-link">PDF ↗</a>
+</div>
+</div>
+<aside class="paper-sidenote">
+<div class="placeholder-img"><span>Key Figure</span></div>
+<p class="sidenote-meta">Joint with <strong>Franziska Disslbacher</strong></p>
+<p class="sidenote-meta"><em>Working paper</em></p>
 <p class="sidenote-meta">Data: Administrative wealth-at-death records, Vienna</p>
 </aside>
 </div>
