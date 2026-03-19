@@ -93,13 +93,7 @@ strong{
   display: grid;
   grid-template-columns: 1fr 33%;
   gap: 0 2.8rem;
-  margin-bottom: 2.8rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid rgba(0,0,0,0.08);
-
-  &:last-of-type {
-    border-bottom: none;
-  }
+  margin-bottom: 2.4rem;
 
   @include media-query($on-palm) {
     display: block;
@@ -136,13 +130,12 @@ strong{
 
   a {
     color: $text-color;
-    border-bottom: 1px solid rgba($brand-color, 0.3);
-    text-decoration: none;
-    transition: border-color 0.2s;
+    text-decoration: underline;
+    text-underline-offset: 2px;
 
     &:hover {
-      border-bottom-color: $brand-color;
-      text-decoration: none;
+      opacity: 0.6;
+      text-decoration: underline;
     }
   }
 }
@@ -157,23 +150,25 @@ strong{
 
 .paper-actions {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
   gap: 1.2rem;
   margin-top: 0.4rem;
+
+  details {
+    margin-top: 0;
+  }
 }
 
 .paper-link {
   font-size: 0.82rem;
-  color: $brand-color;
+  color: $text-color;
   white-space: nowrap;
-  border-bottom: 1px solid rgba($brand-color, 0.35);
-  text-decoration: none;
-  padding-top: 0.15rem;
+  text-decoration: underline;
+  text-underline-offset: 2px;
   flex-shrink: 0;
 
   &:hover {
-    opacity: 0.7;
-    text-decoration: none;
+    opacity: 0.6;
   }
 }
 
@@ -181,8 +176,6 @@ strong{
   font-size: 0.8rem;
   line-height: 1.55;
   color: #6b5c52;
-  border-left: 2px solid rgba($brand-color, 0.2);
-  padding-left: 1rem;
 
   @include media-query($on-palm) {
     display: none;
@@ -217,7 +210,7 @@ strong{
 
   em {
     font-style: italic;
-    color: $brand-color;
+    color: #555;
     font-size: 0.75rem;
   }
 }
@@ -228,15 +221,17 @@ details {
 
   summary {
     cursor: pointer;
-    font-size: 0.85rem;
-    color: $brand-color;
+    font-size: 0.82rem;
+    color: $text-color;
     letter-spacing: 0.04em;
-    display: inline-block;
-    border-bottom: 1px solid rgba($brand-color, 0.3);
-    padding-bottom: 1px;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    list-style: none;
+
+    &::-webkit-details-marker { display: none; }
 
     &:hover {
-      opacity: 0.75;
+      opacity: 0.6;
     }
   }
 
@@ -246,6 +241,13 @@ details {
     line-height: 1.6;
     margin-top: 0.6rem;
   }
+}
+
+// Bold black section dividers (override inline styles on <hr>)
+#top .page-content hr {
+  border: none !important;
+  border-top: 1.5px solid #111 !important;
+  margin: 2rem 0 1.8rem !important;
 }
 
 // Tufte section header spacing
