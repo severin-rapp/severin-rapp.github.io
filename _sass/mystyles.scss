@@ -66,6 +66,52 @@ strong{
   font-weight: 700;
 }
 
+// ============================
+// Tufte heading typography (ET Book, site-wide)
+// ============================
+
+// h1 and h2: italic, lightweight — the classic Tufte book look
+h1, h2 {
+  font-family: $base-font-family;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.15;
+  color: $text-color;
+}
+
+h1 {
+  font-size: 2.6rem;
+  margin-top: 3rem;
+  margin-bottom: 1.4rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+// h3: small-caps with letter-spacing — elegant section dividers
+h3 {
+  font-family: $base-font-family;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  font-size: 1.15rem;
+  color: $text-color;
+  margin-top: 1.8rem;
+  margin-bottom: 0.7rem;
+}
+
+// Keep author-description h3 (sidebar on about page) unaffected by margins
+#top .author-description h3 {
+  margin-top: 0;
+  font-variant: normal;
+  letter-spacing: normal;
+  font-size: 1rem;
+}
+
 // Black underlined links for all content areas
 #top .post-content a:not(.button),
 #top .page-content a:not(.button) {
@@ -106,7 +152,7 @@ strong{
 
 .paper-entry {
   display: grid;
-  grid-template-columns: 1fr 33%;
+  grid-template-columns: 1fr 40%;
   gap: 0 2.8rem;
   margin-bottom: 2.4rem;
 
@@ -138,7 +184,7 @@ strong{
 }
 
 .paper-apa {
-  font-size: 0.84rem;
+  font-size: 1rem;
   color: $text-color;
   line-height: 1.55;
   margin-bottom: 0.4rem;
@@ -157,7 +203,7 @@ strong{
 
 .paper-sentence {
   color: $text-color;
-  font-size: 0.95rem;
+  font-size: 1rem;
   margin-bottom: 0.5rem;
   font-style: italic;
   line-height: 1.5;
@@ -175,7 +221,7 @@ strong{
 }
 
 .paper-link {
-  font-size: 0.82rem;
+  font-size: 0.9rem;
   color: $text-color;
   white-space: nowrap;
   text-decoration: underline;
@@ -237,7 +283,7 @@ details {
 
   summary {
     cursor: pointer;
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     color: $text-color;
     letter-spacing: 0.04em;
     text-decoration: underline;
@@ -252,7 +298,7 @@ details {
   }
 
   p, & > *:not(summary) {
-    font-size: 0.88rem;
+    font-size: 1rem;
     color: $text-color;
     line-height: 1.6;
     margin-top: 0.6rem;
@@ -266,13 +312,10 @@ details {
   margin: 2rem 0 1.8rem !important;
 }
 
-// Tufte section header spacing
+// Tufte section header — inherits h3 small-caps, adds subtle rule below
 .tufte-section-header {
   margin-top: 2rem;
   margin-bottom: 1.2rem;
   padding-bottom: 0.3rem;
   border-bottom: 1px solid rgba($text-color, 0.15);
-  font-size: 1rem;
-  letter-spacing: 0.04em;
-  color: $text-color;
 }
