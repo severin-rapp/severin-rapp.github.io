@@ -19,7 +19,7 @@ permalink: /research/
   <summary>Abstract</summary>
   <p>Private wealth, as well as its distribution and intergenerational transmission have become much-debated issues. However, existing evidence remains fragmented, context-dependent, and sometimes contested. This data descriptor introduces the GC Wealth Project data warehouse, a dataset covering multiple countries and time periods, designed to address these challenges. The dataset consolidates most existing evidence on private wealth and undertakes a significant data harmonization effort. We supplement each data point with extensive metadata on methodology and add new data. The data warehouse features an extensive collection of information on the household wealth levels and balance sheets, along with distributional statistics from a wide range of sources. Moreover, it draws together data on wealth transfer tax revenues, and tax features such as rates, exemption thresholds, and tax schedules. The broad range of data sources in the warehouse allows users to assess the degree of heterogeneity of estimates, and how methodological choices affect measurement outcomes. The new data points and policy indicators also allow extending quantitative analysis of wealth and public policy.</p>
 </details>
-<a href="https://doi.org/10.5281/zenodo.16048795" target="_blank" class="paper-link">Data Repository ↗</a>
+<a href="https://doi.org/10.1038/s41597-026-07105-6" target="_blank" class="paper-link">Article ↗</a>
 </div>
 </div>
 <aside class="paper-sidenote">
