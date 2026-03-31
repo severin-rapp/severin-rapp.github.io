@@ -23,7 +23,7 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
+<img src="/assets/img/gcwealth.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Max Longmuir, Franziska Disslbacher</strong> et al.</p>
 <p class="sidenote-meta"><em>R&amp;R</em></p>
 </aside>
@@ -42,7 +42,7 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
+<img src="/assets/img/wealtheq.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta"><em>Review of Income and Wealth</em>, 2025, 71(1)</p>
 <p class="sidenote-meta">Data: German Socio-Economic Panel (SOEP)</p>
 </aside>
@@ -61,7 +61,7 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
+<img src="/assets/img/apov.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta"><em>Social Inclusion</em>, 2023, 11(1), 176–186</p>
 <p class="sidenote-meta">Joint with <strong>Stefan Humer</strong></p>
 <p class="sidenote-meta">Data: Harmonized EU/US microdata + social insurance simulations</p>
@@ -85,7 +85,7 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
+<img src="/assets/img/goodcouncil.jpg" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Franziska Disslbacher, Martin Haselmayer, Lukas Lehner</strong> and <strong>Franziska Windisch</strong></p>
 <p class="sidenote-meta"><em>Under review</em></p>
 <p class="sidenote-meta">Pre-registered field experiment, Austria</p>
@@ -105,7 +105,7 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
+<img src="/assets/img/subwlth.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Pirmin Fessler</strong></p>
 <p class="sidenote-meta"><em>Under review</em></p>
 <p class="sidenote-meta">Survey data, Austria; IV approach</p>
@@ -125,7 +125,7 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
+<img src="/assets/img/legacies.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Franziska Disslbacher</strong></p>
 <p class="sidenote-meta">Data: Administrative wealth-at-death records, Vienna</p>
 </aside>
@@ -144,7 +144,7 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
+<img src="/assets/img/linsurance.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Franziska Disslbacher</strong></p>
 <p class="sidenote-meta"><em>Working paper</em></p>
 <p class="sidenote-meta">Data: Administrative wealth-at-death records, Vienna</p>
@@ -168,7 +168,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta">Joint with <strong>Karin Heitzmann</strong></p>
 <p class="sidenote-meta"><em>Soziale Lage und Sozialpolitik in Österreich</em>, 2023, Vol. 24</p>
 </aside>
@@ -191,7 +190,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta">Joint with <strong>Olivier Thévenon</strong></p>
 <p class="sidenote-meta"><em>OECD Papers on Well-being and Inequalities</em>, 2025, No. 36</p>
 <p class="sidenote-meta">Data: European HBS, EU-SILC 2021 ad hoc module</p>
@@ -211,7 +209,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta"><em>Wirtschaft und Gesellschaft</em>, 2023, 49(3), 129–133</p>
 <p class="sidenote-meta">Book review: <em>Billionaire Wilderness</em> by Justin Farrell</p>
 </aside>
@@ -230,7 +227,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta"><em>INEQ Working Paper Series</em>, 2021, No. 22</p>
 <p class="sidenote-meta">Data: German Socio-Economic Panel (SOEP)</p>
 </aside>
@@ -249,7 +245,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta">Joint with <strong>Robert Lasser, Vanessa Lechinger</strong> and <strong>Cara Dabrowski</strong></p>
 <p class="sidenote-meta">City of Vienna, Dept. No. 23, 2021</p>
 <p class="sidenote-meta">Data: Austrian HFCS (regionally stratified)</p>
@@ -269,7 +264,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta">Joint with <strong>Stefan Humer</strong></p>
 <p class="sidenote-meta">City of Vienna, Dept. No. 40, 2020</p>
 </aside>
@@ -284,7 +278,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<div class="placeholder-img"><span>Key Figure</span></div>
 <p class="sidenote-meta">Joint with <strong>Stefan Humer</strong></p>
 <p class="sidenote-meta">Austrian Federal Ministry, 2018</p>
 </aside>
