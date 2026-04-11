@@ -74,7 +74,7 @@ permalink: /research/
 
 <div class="paper-entry">
 <div class="paper-main">
-<p class="paper-apa">Rapp, S., Disslbacher, F., Haselmayer, M., Lehner, L., &amp; Windisch, F. (n.d.). <em><a href="https://severin-rapp.github.io/assets/goodcouncil_stone.pdf" target="_blank">The good council: Deliberating inequality in a field experiment</a></em>. [Under review].</p>
+<p class="paper-apa">Rapp, S., Disslbacher, F., Haselmayer, M., Lehner, L., &amp; Windisch, F. (n.d.). <em><a href="https://severin-rapp.github.io/assets/goodcouncil_stone.pdf" target="_blank">The good council: Deliberating inequality in a field experiment</a></em>. </p>
 <p class="paper-sentence">A citizens' assembly on wealth inequality improves factual knowledge and fosters policy convergence but leaves political efficacy and broader civic engagement unchanged.</p>
 <div class="paper-actions">
 <details>
