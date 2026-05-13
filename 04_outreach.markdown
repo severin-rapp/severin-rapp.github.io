@@ -8,6 +8,8 @@ permalink: /outreach/
 ## Outreach 
 <p> </p>
 
+Arbeit&Wirtschaft, 2026. ["Kommt in Kalifornien die Milliardärssteuer?"](https://www.arbeit-wirtschaft.at/kommt-in-kalifornien-die-milliardaerssteuer/) 
+
 Financial Times, 2026. ["To raise low birth rates, we must help mothers"](https://www.ft.com/content/7391479c-a60e-42d1-b293-8ce848cf4f56?accessToken=zwAGS8S4aDBIkc9zkUecpg5C0dOyk4zoSM9PVg.MEQCIHH9oIlV7duX4aJkStSL33xt9_074R5nRDkg73jIFCZ9AiBwNUzUuAD_BoDy46BcGA3G7zNoX5059hIg_TuDhrGSxw&sharetype=gift&token=ff61d1b7-57b2-41ab-95aa-eb22747ad009)
 
 Die Presse, 2024. ["Wie viel eine Erbschaftssteuer bringen könnte"](https://www.diepresse.com/19002591/wie-viel-eine-erbschaftssteuer-bringen-koennte)
