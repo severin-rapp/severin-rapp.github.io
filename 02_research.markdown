@@ -65,7 +65,6 @@ permalink: /research/
 </aside>
 </div>
 
-<hr style="border:.25px solid grey">
 
 <h3 class="tufte-section-header">Research Papers</h3>
 
@@ -144,7 +143,6 @@ permalink: /research/
 </aside>
 </div>
 
-<hr style="border:.25px solid grey">
 
 <h3 class="tufte-section-header">Ongoing Work</h3>
 
@@ -166,7 +164,6 @@ permalink: /research/
 </div>
 </div>
 
-<hr style="border:.25px solid grey">
 
 <h3 class="tufte-section-header">Book Chapters</h3>
 
@@ -188,7 +185,6 @@ permalink: /research/
 </aside>
 </div>
 
-<hr style="border:.25px solid grey">
 
 <h3 class="tufte-section-header">Research Reports and Other Publications</h3>
 
@@ -298,4 +294,3 @@ permalink: /research/
 </aside>
 </div>
 
-<hr style="border:.25px solid grey">
