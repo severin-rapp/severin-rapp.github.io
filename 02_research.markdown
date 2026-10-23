@@ -23,7 +23,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<img src="/assets/img/gcwealth.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Max Longmuir, Franziska Disslbacher</strong> et al.</p>
 <p class="sidenote-meta"><em>R&amp;R</em></p>
 </aside>
@@ -42,7 +41,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<img src="/assets/img/wealtheq.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta"><em>Review of Income and Wealth</em>, 2025, 71(1)</p>
 <p class="sidenote-meta">Data: German Socio-Economic Panel (SOEP)</p>
 </aside>
@@ -61,7 +59,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<img src="/assets/img/apov.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta"><em>Social Inclusion</em>, 2023, 11(1), 176–186</p>
 <p class="sidenote-meta">Joint with <strong>Stefan Humer</strong></p>
 <p class="sidenote-meta">Data: Harmonized EU/US microdata + social insurance simulations</p>
@@ -85,7 +82,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<img src="/assets/img/goodcouncil.jpg" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Franziska Disslbacher, Martin Haselmayer, Lukas Lehner</strong> and <strong>Franziska Windisch</strong></p>
 <p class="sidenote-meta"><em>Under review</em></p>
 <p class="sidenote-meta">Pre-registered field experiment, Austria</p>
@@ -105,7 +101,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<img src="/assets/img/subwlth.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Pirmin Fessler</strong></p>
 <p class="sidenote-meta"><em>Under review</em></p>
 <p class="sidenote-meta">Survey data, Austria; IV approach</p>
@@ -125,7 +120,6 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<img src="/assets/img/legacies.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Franziska Disslbacher</strong></p>
 <p class="sidenote-meta">Data: Administrative wealth-at-death records, Vienna</p>
 </aside>
@@ -144,11 +138,32 @@ permalink: /research/
 </div>
 </div>
 <aside class="paper-sidenote">
-<img src="/assets/img/linsurance.png" alt="Key Figure" class="paper-sidenote-img">
 <p class="sidenote-meta">Joint with <strong>Franziska Disslbacher</strong></p>
 <p class="sidenote-meta"><em>Working paper</em></p>
 <p class="sidenote-meta">Data: Administrative wealth-at-death records, Vienna</p>
 </aside>
+</div>
+
+<hr style="border:.25px solid grey">
+
+<h3 class="tufte-section-header">Ongoing Work</h3>
+
+<div class="paper-entry">
+<div class="paper-main">
+<p class="paper-apa">Rapp, S., Gornick, J., Lehner, L. &amp; Parolin, Z. (work in progress). <em>The Discordance Between Personal Earnings and Household Income From a Comparative Perspective </em>.</p>
+</div>
+</div>
+
+<div class="paper-entry">
+<div class="paper-main">
+<p class="paper-apa">Rapp, S., Longmuir, M., Morelli, S., &amp; Rella, G. (work in progress). <em>Wealth Inequality and Climate Policy</em>.</p>
+</div>
+</div>
+
+<div class="paper-entry">
+<div class="paper-main">
+<p class="paper-apa">Rapp, S., &amp; Disslbacher F. (work in progress). <em>Wealth in Austria</em>.</p>
+</div>
 </div>
 
 <hr style="border:.25px solid grey">
